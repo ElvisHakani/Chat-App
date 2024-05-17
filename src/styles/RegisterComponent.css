@@ -1,0 +1,11 @@
+.main-register {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.sub {
+    margin-top: 1rem;
+}

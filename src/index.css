@@ -1,0 +1,10 @@
+:root {
+  background: linear-gradient(to right, #fff, rgb(188, 188, 255));
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lora", serif;
+}
